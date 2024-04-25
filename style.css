@@ -1,0 +1,35 @@
+header {
+
+    font-size: 60px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: aliceblue;
+    border: 10px solid brown;
+}
+
+p{
+
+    font-size: 25px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+
+section{
+
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 25px;
+
+}
+
+img {
+
+    border: 5px solid black;
+    width: 500; height: 300;
+}
+
+ol {
+    font-size: 30px;
+}
+
+h1{
+    font-size: 40px;
+}
